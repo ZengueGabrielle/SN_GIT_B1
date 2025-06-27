@@ -1,4 +1,5 @@
 # SN_GIT_B1
+Il y a un bouton de présentaton de mon entreprise juste à la fin de la première page
 La strategie de branchement suivie est celle indiquée sur l'épreuve,feature/*-->test/*-->dev-->main
 les étapes suivies sont
 la création des branches
